@@ -1,0 +1,27 @@
+{
+  "name": "@qtk/tcp-request-framework",
+  "version": "1.0.0",
+  "description": "tcp request framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanywhere/qtk-tcp-request-framework.git"
+  },
+  "keywords": [
+    "tcp",
+    "request",
+    "framework"
+  ],
+  "author": "ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayanywhere/qtk-tcp-request-framework/issues"
+  },
+  "homepage": "https://github.com/rayanywhere/qtk-tcp-request-framework#readme",
+  "dependencies": {
+    "@qtk/tcp-framework": "^2.0.9"
+  }
+}
