@@ -1,6 +1,6 @@
 {
   "name": "@qtk/tcp-request-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tcp request framework",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/rayanywhere/qtk-tcp-request-framework#readme",
   "dependencies": {
-    "@qtk/tcp-framework": "^2.0.9"
+    "@qtk/tcp-framework": "^2.0.10"
   }
 }
